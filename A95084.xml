@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True narrative of all the proceedings against the weavers, at a court of oyer and terminer, held at Justice-Hall in the Old Bayly upon the same occasion, on Thursday the 16th of September 1675 with an account of the manner of their deportment there, and also of the punishments allotted to them for their offence : how many are to be fined, and how many to stand in the pillory.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95084</idno>
+            <idno type="STC">Wing T2775</idno>
+            <idno type="STC">ESTC R43793</idno>
+            <idno type="EEBO-CITATION">42475249</idno>
+            <idno type="OCLC">ocm 42475249</idno>
+            <idno type="VID">151407</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95084)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151407)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2258:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True narrative of all the proceedings against the weavers, at a court of oyer and terminer, held at Justice-Hall in the Old Bayly upon the same occasion, on Thursday the 16th of September 1675 with an account of the manner of their deportment there, and also of the punishments allotted to them for their offence : how many are to be fined, and how many to stand in the pillory.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Weavers' Riots, 1675.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151407:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 77 -->
+            <p>A True NARRATIVE OF All the PROCEEDINGS AGAINST The Weavers, At a Court of <hi>Oyer</hi> and <hi>Terminer,</hi> held at Juſtice-Hall in the <hi>Old-Bayly</hi> upon the ſame occaſion, On Thurſday the 16th of <hi>September</hi> 1675.</p>
+            <p>With an Account of the manner of their Deportment there, and alſo of the Puniſh<g ref="char:EOLhyphen"/>ments allotted them for their Offence.</p>
+            <p>How many are to be fined, and how many to ſtand in the Pillory.</p>
+            <p>
+               <hi>London:</hi> Printed in the Year 1675.</p>
+            <pb facs="tcp:151407:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 78 -->
+            <pb facs="tcp:151407:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 78 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151407:3"/>
+            <!-- PDF PAGE 79 -->
+            <pb n="3" facs="tcp:151407:3"/>
+            <!-- PDF PAGE 79 -->
+            <head>A True NARRATIVE OF All the PROCEEDINGS AGAINST The Weavers.</head>
+            <p>IT is, ſufficiently known to moſt perſon a<g ref="char:EOLhyphen"/>bout this Citty, what great miſchief and diſorders happened by the Inſurrection of the <hi>Weavers</hi> in <hi>Auguſt</hi> laſt, not only to the breaking of the publick Peace, but to the great damage of ſeveral perſons whoſe Looms and Inſtruments of Trade they forcibly took a<g ref="char:EOLhyphen"/>way from them and burned.</p>
+            <p>Great care was then taken by the worthy She<g ref="char:EOLhyphen"/>riffs and other Magiſtrates of the City, by all
+<pb n="4" facs="tcp:151407:4"/>
+               <!-- PDF PAGE 80 -->fair means at firſt, if poſſible, to ſuppreſs them, and to perſwade them to be quiet; and that if they were grieved as they pretended they were, they ſhould take what remedy the Law would allow them, and not perſiſt to diſturb the Peace of the City: but when ſuch ſofter allays could not aſſawage the Calenture of their raging fury, but they perſiſted day after day in continual Tumults to proſecute their Riotous deſignes, ſome of the principal of them were taken and committed to ſeveral Priſons, in order to be pro<g ref="char:EOLhyphen"/>ceeded againſt by Law, for an Example and war<g ref="char:EOLhyphen"/>ning to others that ſhould offend in the like na<g ref="char:EOLhyphen"/>ture.</p>
+            <p>And to this end a Court was held by ſpecial Commiſſion of <hi>Oyer</hi> and <hi>Terminer</hi> at Juſtice Hall in the <hi>Old-bayly</hi> upon Thurſday the ſixteenth of <hi>September</hi> Inſtant, for the Tryal of the ſaid Ma<g ref="char:EOLhyphen"/>lefactors, where were preſent ſeveral Juſtices and other Magiſtrates.</p>
+            <p>After the Commiſſion read, the Priſoners were Arraigned, and then the Jury were called, which conſiſted of Eſquires and Gentlemen of good Quality; and as they were called over, the Priſoners being Eleven in number, ſtanding at the Bar, had liberty given them to make their Challenges; after which the Jury being ſworn, the other ten were withdrawn, and the eleventh continuing at the Bar, they proceeded firſt a<g ref="char:EOLhyphen"/>gainſt him, and the Indictment read, which was to this Effect: <hi>That he with ſeveral other perſons
+<pb n="5" facs="tcp:151407:4"/>
+                  <!-- PDF PAGE 80 -->to a great number, did Riotouſly aſſemble together upon the nine and tenth of</hi> Auguſt, <hi>and did break open the houſes of one J. M. and C. and took a<g ref="char:EOLhyphen"/>way and burned their Goods, to the great diſturbance of the Peace,</hi> &amp;c. after which the Kings Council opened the Charge and the Witneſſes were ſworn, which were the aforeſaid <hi>C.</hi> and <hi>M.</hi> with ſeveral other perſons, who by their Evidence did ſatisfie the Court the priſoner was one of the Rabble, who were about an hundred in number; and that he with the reſt, were out on Munday and Tueſ<g ref="char:EOLhyphen"/>day the ninth and tenth of <hi>Auguſt,</hi> and that he was one of them that laid hand on their Goods, and was aiding and aſſiſting to the burning of them. This Evidence was proved againſt him. Notwithſtanding he began a plauſible ſtory for himſelf, as that he kept in all day on Munday, and that on Tueſday he was with the Conſtable on the Watch till four in the afternoon, and then in his way homewards lighting on the place where the ſaid Rioters were aſſembled neer the houſe of the ſaid <hi>C.</hi> and an out cry being made as if ſome Murder were done in the houſe, the ſaid <hi>C.</hi> deſired that he and two other men would come into his houſe to be witneſſes what the matter was, where they found all things peaceable and quiet; and that then he and the ſaid <hi>C.</hi> went to drink together; and that by his own confeſſion he got the ſaid <hi>C.</hi> to give a Bill of the Penalty of one hundred pound that he ſhould never uſe the Engine as they call'd it, any more; which Bill
+<pb n="6" facs="tcp:151407:5"/>
+               <!-- PDF PAGE 81 -->was read in the Court, and it appeared that upon his giving of the ſaid Bill, the Rioters departed; by which, and other circumſtances, the Court ob<g ref="char:EOLhyphen"/>ſerved that this man was a principal Ring-leader of the Faction.</p>
+            <p>After his Trial was over, another was called: it appeared by the Evidence that he alſo was one of the number; and that although he did not lay violent hands on the Looms that they had ta<g ref="char:EOLhyphen"/>ken, yet that he had perſwaded the party from whom they were taken, to deliver them up into their hands, to avoid the trouble of having them taken from him; which the Court ſaid was all one to make him guilty with the reſt, for that he might be perſwaded to, out of fear of worſe miſchiefs that they might do to him; And that to be preſent in any ſuch Riotous meeting, and not to indeavour to ſuppreſs them, or be in the leaſt abo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing to them, was ſufficient to make a perſon Equally Guilty with them.</p>
+            <p>After this, two more were called up; one of them carryed himſelf very Inſolently, and ſtood upon his Juſtification, although the Fact with which he was Charged, which was of the ſame Nature with the former, was Evidently proved againſt him. It is Obſerv<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e, that the Court of their abundant Clemency towards the Priſoners, indea<g ref="char:EOLhyphen"/>voured both with him, and the former Priſoner to bring them to an ingenuous Confeſſion of their Faults without troubling the Court with bring<g ref="char:EOLhyphen"/>ing Proofs (which were not wanting) againſt them,
+<pb n="7" facs="tcp:151407:5"/>
+               <!-- PDF PAGE 81 -->acquainting them, That the King of his graci<g ref="char:EOLhyphen"/>ous Clemency to them, had ordered the Indict<g ref="char:EOLhyphen"/>ments to be ſuch, as ſhould neither extend to Life nor Member, but only Treſpaſs; And that if they would ingenuouſly Confeſs the Matters Charged againſt them, and humble themſelves to the Court, they ſhould find the more Favour: up<g ref="char:EOLhyphen"/>on which, One of the Two laſt mention'd Pri<g ref="char:EOLhyphen"/>ſoners fell on his Knees and beg'd Mercy, con<g ref="char:EOLhyphen"/>feſſing his Indictment, and ſo did two others af<g ref="char:EOLhyphen"/>ter him; which carriage of theirs, the Court was pleaſed to take into Conſideration, and it fared the better with them. The reſt ſtood upon their Tryal, and their ſeveral Facts proved againſt them, which being for the manner much of the ſame Nature of the former, it would be too re<g ref="char:EOLhyphen"/>dious to recount the Particulars. In fine, there<g ref="char:EOLhyphen"/>fore, after a full hearing of the ſeveral Evidences againſt them, and what they could ſeverally ſay in their own Defence (in which the Court gave them a great deal of Liberty, the Jury went upon their Verdict, and returned them all Guilty; upon which the Court broke up for the Fore<g ref="char:EOLhyphen"/>noon.</p>
+            <p>In the Afternoon after the Court had diſpatch'd ſome other buſineſs the Priſoners were again call'd to the Barr to receive their Sentence, in which the Court firſt acquainting them of the Notori<g ref="char:EOLhyphen"/>ouſneſs of the Crimes they had been Convicted of, told them next, what Penalty they had thereby made themſelves lyable to: that the
+<pb n="8" facs="tcp:151407:6"/>
+               <!-- PDF PAGE 82 -->ſame might have been made <hi>High Treaſon,</hi> and they therefore have ſuffered as <hi>Traytors:</hi> But that his Majeſty of his Gracious Goodneſs had been willing to diſpence with the Rigor of thoſe Sanguinary Laws, and to ſuffer them to be procee<g ref="char:EOLhyphen"/>ded againſt upon ſuch Indictments as ſhould in<g ref="char:EOLhyphen"/>danger neither Life nor Member; And therefore that thoſe Three Perſons who had Confeſt their Indictments, and ſubmitted themſelves to the Court, ſhould be Fined Twenty Marks apiece, to lye in Priſon till their Fines were paid, and to be bound to their Good Behaviour for their Lives. And for the other Eight, for their Con<g ref="char:EOLhyphen"/>tumacy, they were thought worthy of a greater Puniſhment; and ſo were Fined Five hundred Marks a Man, to lye in Priſon till their Fines were paid; to ſtand three ſeveral Dayes on the Pillory: to find Sureties for their good Behavi<g ref="char:EOLhyphen"/>our for their Lives. After which Sentence Pro<g ref="char:EOLhyphen"/>nounced, in a little time the Court broke up, and the Seſſions concluded.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151407:6"/>
+            <!-- PDF PAGE 82 -->
+            <pb facs="tcp:151407:7"/>
+            <!-- PDF PAGE 83 -->
+            <pb facs="tcp:151407:7"/>
+            <!-- PDF PAGE 83 -->
+         </div>
+      </body>
+   </text>
+</TEI>
